@@ -1,17 +1,8 @@
-# Day 1️⃣
-Welcome to the elite [Motoko School](https://twitter.com/MotokoSchool), where talented minds like yours gather to learn and master the art of programming on the **Internet Computer**. ♾️ <br/>  
-Today marks your exciting first day, and while it may be intense, take the chance to bond with your teammates and brace yourself for the adventure ahead. Don't worry if you fall behind; allow yourself the time needed to grasp the material. Keep in mind that 7 days is a brief period to learn everything there is to know about Web 3.0 and the Internet Computer. All resources will be available after the week is over, so you can catch-up on anything you've missed. <br/>
-Above all, the most vital aspect of the Bootcamp is to have fun and build connections - let's learn and grow together. 💪
-## 🍿 Lectures & events
-> Be sure to consult the calendar for the precise schedule of each lecture.
+# Homework 1️⃣
 
-| Title | Mentor |  Description |
-|-----------------|-----------------|-----------------|
- <a href="https://www.youtube.com/watch?v=_5fD5vJMGV4" target="_blank"> Kick Off 🎉 </a>| <a href="https://twitter.com/seb_icp" target="_blank"> Seb  </a> | Welcome to Motoko Bootcamp! 
-| <a href="https://www.youtube.com/watch?v=_T7GgPxxSKo" target="_blank"> Anatomy of a Motoko project </a> | <a href="https://twitter.com/seb_icp" target="_blank"> Seb  </a> | This lecture covers the sample project deployed with `dfx`, and provides guidance on how to navigate its structure and use each file effectively, as well as how to deploy and manage canisters.
-| <a href="https://www.youtube.com/watch?v=0JVGWkd4tgQ" target="_blank"> Variables, types, loops and functions. </a> | <a href="https://twitter.com/tedreinhardt" target="_blank"> Ted  </a> | This lecture explores the fundamentals of the Motoko language, including variables, types, functions, and loops.
+
 ##  🧭 Tasks of the day
-> Use this list as a guide for your day, it contains all the material that you need to read and the challenges you need to tackle.
+> Use this list as a guide for your homework, it contains all the material that you need to read and the challenges you need to tackle.
 - Read [Chapter 1 : Fundamental concepts](../../manuals/chapters/chapter-1/CHAPTER-1.MD) in full.
 - Read [Chapter 2: Common programming concepts](../../manuals/chapters/chapter-2/CHAPTER-2.MD).
     - [Variables](https://github.com/motoko-bootcamp/motoko-starter/blob/main/manuals/chapters/chapter-2/CHAPTER-2.MD#-variables)
@@ -26,7 +17,7 @@ Above all, the most vital aspect of the Bootcamp is to have fun and build connec
 - Read [Appendix 1: Deploying & managing canisters](../../manuals/appendix/appendix-1/APPENDIX-1.MD#) in full.
 - Complete the [project of the day](./project/README.MD).
 ## 🎯 Learning objectives
-> **Before you finish your day**, review the following list and ensure that you have addressed each item on it. It's important that you have a clear understanding of all these concepts. <br/> <i> Why not try explaining them to one of your teammate to gauge your level of understanding? </i>
+> **Before you finish your homework**, review the following list and ensure that you have addressed each item on it. It's important that you have a clear understanding of all these concepts. <br/> <i> Why not try explaining them to one of your teammate to gauge your level of understanding? </i>
 
 - Understand what is a [canister](../../manuals/chapters/chapter-1/CHAPTER-1.MD#what-is-a-canister) and how it relates to the concept of an [actor](../../manuals/chapters/chapter-1/CHAPTER-1.MD#the-actor-model).
 - Understand the concept of [cycles](../../manuals/chapters/chapter-1/CHAPTER-1.MD#fuel-on-the-internet-computer-cycles) & being able to top-up acanister.
